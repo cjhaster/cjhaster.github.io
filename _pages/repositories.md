@@ -29,6 +29,8 @@ nav_order: 3
 </div>
 {% endif %}
 
+---
+
 ## Other repositories
 
  * [git.ligo.org/cjhaster](https://git.ligo.org/cjhaster) -- My user at the LIGO-hosted GitLab instance
