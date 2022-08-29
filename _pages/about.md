@@ -9,8 +9,8 @@ profile:
   image: CARL-JOHAN_HASTER-1100x1100.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Physics & Astronomy<p>
     <p>Nevada Center for Astrophysics</p>
+    <p>Department of Physics & Astronomy<p>
     <p>University of Nevada, Las Vegas</p>
     <p>4505 S. Maryland Pkwy, Box 454002<p>
     <p>Las Vegas, NV 89154-4002</p>
