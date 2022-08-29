@@ -6,12 +6,14 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: CARL-JOHAN_HASTER-1100x1100.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Physics and Astronomy -- Nevada Center for Astrophysics<p>
+    <p>BPB 212</p>
+    <p>University of Nevada, Las Vegas</p>
+    <p>4505 S. Maryland Pkwy, Box 454002<p>
+    <p>Las Vegas, NV 89154-4002</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
