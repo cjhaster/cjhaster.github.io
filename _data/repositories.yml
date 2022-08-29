@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cjhaster
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - cjhaster/GPUCBC
+  - cjhaster/gwpopulation
+  - lscsoft/bilby
+  - lscsoft/lalsuite
+  - lscsoft/bilby_pipe
