@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: List of my repositories, and where my public code contributions can be found.
 nav: true
 nav_order: 3
 ---
@@ -28,3 +28,8 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+## Other repositories
+
+ * [git.ligo.org/cjhaster](https://git.ligo.org/cjhaster) -- My user at the LIGO-hosted GitLab instance
+ * [bitbucket.org/cjhaster](https://bitbucket.org/cjhaster/) -- My user with BitBucket
