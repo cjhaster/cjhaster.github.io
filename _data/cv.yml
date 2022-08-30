@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Birmingham - Birmingham, UK
+      institution: <a href="https://www.birmingham.ac.uk/schools/physics/index.aspx">University of Birmingham</a> - Birmingham, UK
       year: 2012 - 2016
       description:
         - Topic - Gravitational Wave Astrophysics
@@ -23,13 +23,13 @@
             - <a href="https://www.birmingham.ac.uk/staff/profiles/physics/vecchio-alberto.aspx">Prof. Alberto Vecchio</a>
 
     - title: MPhys – Physics with Astrophysics
-      institution: The University of Manchester - Manchester, United Kingdom
+      institution: <a href="https://www.physics.manchester.ac.uk/">The University of Manchester</a> - Manchester, United Kingdom
       year: 2008 - 2012
       description:
         - Grade - 1st Class (Hons)
         - title: MPhys Thesis - Improving high-precision timing of millisecond pulsars
           contents:
-            - Jointly with <a href="https://njcuk9999.github.io/">Dr. Neil Cook</a>
+            - Joint masters project with <a href="https://njcuk9999.github.io/">Dr. Neil Cook</a>
             - Supervised by <a href="https://www.research.manchester.ac.uk/portal/ben.stappers.html">Prof. Ben Stappers</a>
 
     - title: Fullständigt slutbetyg från gymnasieskolan
@@ -37,13 +37,13 @@
       year: 2005 - 2008
       description:
         - <a href="https://kungsholmensgymnasium.stockholm/program-pa-kungsholmens-gymnasium/naturvetenskapsprogrammet/korsangsprofil/">Natural Sciences program - Specialization in choir singing</a>
-        - Grade - 20.0
+        - Grade - 20.0 (out of 20.0)
 
 - title: Experience
   type: time_table
   contents:
     - title: Assistant Professor of Astrophysics
-      institution: University of Nevada, Las Vegas - Las Vegas, Nevada, USA
+      institution: <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a> - Las Vegas, Nevada, USA
       year: 2022 - present
       description:
         - <a href="https://www.physics.unlv.edu/">Department of Physics & Astronomy</a>
@@ -54,23 +54,25 @@
         #    - Sub-description 2.
 
     - title: Postdoctoral Associate
-      institution: Massachusetts Institute of Technology - Cambridge, Massachusetts, USA
+      institution: <a href="https://www.mit.edu/">Massachusetts Institute of Technology</a> - Cambridge, Massachusetts, USA
       year: 2018 - 2022
       description:
         - <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>
         - <a href="https://ligolab.mit.edu/">MIT LIGO Laboratory</a>
 
     - title: CITA Postdoctoral Fellow
-      institution: Canadian Institute for Theoretical Astrophysics, University of Toronto - Toronto, Ontario, Canada
+      institution: <a href="https://www.cita.utoronto.ca/">Canadian Institute for Theoretical Astrophysics</a>, <a href="https://www.utoronto.ca/">University of Toronto</a> - Toronto, Ontario, Canada
       year: 2016 - 2018
 
     - title: CIERA Visiting Pre-Doctoral Fellow
-      institution: Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University - Evanston, Illinois, USA
+      institution: <a href="https://ciera.northwestern.edu/">Center for Interdisciplinary Exploration and Research in Astrophysics</a>, <a href="https://www.northwestern.edu/">Northwestern University</a> - Evanston, Illinois, USA
       year: Jan 2015 - May 2015
 
     - title: Summer student in the <a href="https://ep-dep.web.cern.ch/organisation/alice">EP-AID-DT</a> Group  
-      institution: CERN - Meyrin, Switzerland
+      institution: <a href="https://home.web.cern.ch/">CERN</a> - Meyrin, Switzerland
       year: June 2011 - Sept 2011
+
+      
 
 - title: Service
   type: time_table
@@ -86,7 +88,7 @@
 
     - title: Co-chair
       institution: LIGO/Virgo Collaboration – Compact Binary Coalescences – Parameter Estimation group
-      year: April 2020 - July 2020
+      year: April 2018 - July 2020
 
     - title: Postdoc representative - LIGO Academic Advisory Committee
       institution: LIGO Scientific Collaboration
