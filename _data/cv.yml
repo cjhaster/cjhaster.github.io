@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Birmingham, Birmingham, UK
-      year: 2016
+      institution: University of Birmingham - Birmingham, UK
+      year: 2012 - 2016
       description:
         - Topic - Gravitational Wave Astrophysics
         - Thesis - <a href="https://etheses.bham.ac.uk//id/eprint/6839/">Compact, diverse and efficient - globular cluster binaries and gravitational wave parameter estimation challenges</a>
@@ -21,52 +21,71 @@
           contents:
             - <a href="https://ilyamandel.github.io/">Prof. Ilya Mandel</a>
             - <a href="https://www.birmingham.ac.uk/staff/profiles/physics/vecchio-alberto.aspx">Prof. Alberto Vecchio</a>
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+
+    - title: MPhys – Physics with Astrophysics
+      institution: The University of Manchester - Manchester, United Kingdom
+      year: 2008 - 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Grade - 1st Class (Hons)
+        - title: MPhys Thesis - Improving high-precision timing of millisecond pulsars
+          contents:
+            - Jointly with <a href="https://njcuk9999.github.io/">Dr. Neil Cook</a>
+            - Supervised by <a href="https://www.research.manchester.ac.uk/portal/ben.stappers.html">Prof. Ben Stappers</a>
+
+    - title: Fullständigt slutbetyg från gymnasieskolan
+      institution: Kungsholmens gymnasium och Stockholms musikgymnasium - Stockholm, Sweden
+      year: 2005 - 2008
+      description:
+        - <a href="https://kungsholmensgymnasium.stockholm/program-pa-kungsholmens-gymnasium/naturvetenskapsprogrammet/korsangsprofil/">Natural Sciences program - Specialization in choir singing</a>
+        - Grade - 20.0
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of Astrophysics
+      institution: University of Nevada, Las Vegas - Las Vegas, Nevada, USA
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <a href="https://www.physics.unlv.edu/">Department of Physics & Astronomy</a>
+        - Nevada Center for Astrophysics
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+
+    - title: Postdoctoral Associate
+      institution: Massachusetts Institute of Technology - Cambridge, Massachusetts, USA
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>
+        - <a href="https://ligolab.mit.edu/">MIT LIGO Laboratory</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: CITA Postdoctoral Fellow
+      institution: Canadian Institute for Theoretical Astrophysics, University of Toronto - Toronto, Ontario, Canada
+      year: 2016 - 2018
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: CIERA Visiting Pre-Doctoral Fellow
+      institution: Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University - Evanston, Illinois, USA
+      year: 2015
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Summer student in the <a href="https://ep-dep.web.cern.ch/organisation/alice">EP-AID-DT</a> Group  
+      institution: CERN - Meyrin, Switzerland
+      year: June 2011 - Sept 2011
 
-- title: Open Source Projects
+- title: Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Member of Editorial Team
+      institution: LIGO/Virgo Collaboration – Compact Binary Coalescences group
+      year: 2020 - present
+      description: <a href="https://doi.org/10.48550/arXiv.2108.01045">GWTC-2.1 - Deep Extended Catalog of Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run</a>
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
