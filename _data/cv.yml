@@ -2,25 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Carl-Johan Haster
+    #- name: Date of Birth
+    #  value: 10th February 1989
     - name: Languages
-      value: English, German
+      value: Swedish, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Birmingham, Birmingham, UK
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Topic - Gravitational Wave Astrophysics
+        - >-
+            Thesis - [Compact, diverse and efficient: globular cluster binaries and gravitational wave parameter estimation challenges](https://etheses.bham.ac.uk//id/eprint/6839/)
+        - title: Supervised by
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - >-
+              [Prof. Ilya Mandel](https://ilyamandel.github.io/)
+            - >-
+              [Prof. Alberto Vecchio](https://www.birmingham.ac.uk/staff/profiles/physics/vecchio-alberto.aspx)
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
