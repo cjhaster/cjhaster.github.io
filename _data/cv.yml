@@ -66,7 +66,7 @@
 
     - title: CIERA Visiting Pre-Doctoral Fellow
       institution: Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University - Evanston, Illinois, USA
-      year: 2015
+      year: Jan 2015 - May 2015
 
     - title: Summer student in the <a href="https://ep-dep.web.cern.ch/organisation/alice">EP-AID-DT</a> Group  
       institution: CERN - Meyrin, Switzerland
@@ -77,8 +77,40 @@
   contents:
     - title: Member of Editorial Team
       institution: LIGO/Virgo Collaboration – Compact Binary Coalescences group
-      year: 2020 - present
+      year: May 2020 - present
       description: <a href="https://doi.org/10.48550/arXiv.2108.01045">GWTC-2.1 - Deep Extended Catalog of Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run</a>
+    
+    - title: Postdoc representative - Anti-Racism Task Force
+      institution: MIT Kavli Institute for Astrophysics and Space Research
+      year: June 2020 - Aug 2020
+
+    - title: Co-chair
+      institution: LIGO/Virgo Collaboration – Compact Binary Coalescences – Parameter Estimation group
+      year: April 2020 - July 2020
+
+    - title: Postdoc representative - LIGO Academic Advisory Committee
+      institution: LIGO Scientific Collaboration
+      year: Dec 2017 - Feb 2020
+
+    - title: Member of Paper Writing Team
+      institution: LIGO/Virgo Collaboration – Compact Binary Coalescences group
+      year: Aug 2017 - Nov 2018
+      description: <a href="https://doi.org/10.1103/PhysRevX.9.011001">Properties of the binary neutron star merger GW170817</a>
+
+    - title: Member of Paper Writing Team
+      institution: LIGO/Virgo Collaboration – Compact Binary Coalescences group
+      year: Aug 2017 - Sep 2017
+      description: <a href="https://doi.org/10.1103/PhysRevLett.119.141101">GW170814 - A Three-Detector Observation of Gravitational Waves from a Binary Black Hole Coalescence</a>
+
+    - title: Summer Undergraduate Research Program - Organizing committee, CITA representative
+      institution: Astrophysics groups, University of Toronto
+      year: Nov 2016 - Aug 2018
+      
+    - title: Run Coordinator
+      institution: LIGO/Virgo Collaboration – Compact Binary Coalescences – Parameter Estimation group
+      year: Sept 2016 - July 2020
+      description: Organizing and overseeing parameter estimation followup of gravitational wave triggers.
+       
 
 #- title: Open Source Projects
 #  type: time_table
@@ -90,27 +122,40 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://gwic.ligo.org/thesis-prize.html#past-winners">2016 GWIC and Stefano Braccini Thesis Prizes</a> (Honorable mention) 
+        - <a href="https://link.springer.com/book/10.1007/978-3-319-63441-8">Springer Thesis Prize</a>
+        - <a href="https://www.fpa.es/en/princess-of-asturias-awards/laureates/2017-rainer-weiss-kip-s-thorne-barry-c-barish-and-ligo-scientific-collaboration.html">Princess of Asturias Award for Technical and Scientific Research</a>  - As a member of the LIGO Scientific Collaboration
+    - year: 2016
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <a href="https://breakthroughprize.org/News/32">Special Breakthrough Prize in Fundamental Physics</a> - As a member of the LIGO Scientific Collaboration
+        - <a href="https://gruber.yale.edu/prize/2016-gruber-cosmology-prize">Gruber Cosmology Prize</a> - As a member of the LIGO Scientific Collaboration
+    - year: 2012
       items:
-        - Description 1.
-        - Description 2.
+        - Tesella Prize for Software - University of Manchester, School of Physics and Astronomy
 
-- title: Other Interests
-  type: list
+- title: Referee
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Referee for <a href="https://journals.aps.org/prd/">Physical Review D</a> and <a href="https://journals.aps.org/prl/">Physical Review Letters</a>
+      year: May 2018 - present
+    - title: Referee for <a href="https://iopscience.iop.org/journal/0004-637X">The Astrophysical Journal</a> and <a href="https://iopscience.iop.org/journal/2041-8205">The Astrophysical Journal Letters</a>
+      year: May 2016 - present
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
