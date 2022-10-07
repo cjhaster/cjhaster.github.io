@@ -7,8 +7,6 @@ years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
 In this list I only include articles published in, or intended for publication in, peer-reviewed journals, and have therefore excluded e.g. conference proceedings.
 Entries with the <font color=#b31a1b>arXiv</font> label have all been submitted to peer-reviewed journals, but are currently in a pre-print stage.
@@ -18,6 +16,10 @@ In addition, through general contributions to the [LIGO Scientific Collaboration
 
 My current h-index, as estimated through [InspireHEP](https://inspirehep.net/authors/1277727), is 72.
 My [ORCiD](https://orcid.org/) number is [0000-0001-8040-9807](https://orcid.org/0000-0001-8040-9807)
+
+
+<!-- _pages/publications.md -->
+<div class="publications">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
