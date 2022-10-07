@@ -5,7 +5,7 @@
 
 "Chen":
  - firstname: ["Hsin-Yu", "H", "H-Y"]
-  url: https://sites.google.com/view/hsin-yuchen/home
+   url: https://sites.google.com/view/hsin-yuchen/home
 
 "Farr":
  - firstname: ["Will", "Will M.", "W", 'W. M.']
@@ -24,7 +24,7 @@
   
 "Islam":
  - firstname: ["Tousif", "T"]
- url: https://tousifislam.com/
+   url: https://tousifislam.com/
 
 "Ng":
  - firstname: ["Ken", "Ken K.Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
