@@ -6,3 +6,6 @@
 "PRL":
   url: https://journals.aps.org/prl/
   color: "#507e66"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31a1b"
