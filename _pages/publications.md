@@ -15,7 +15,7 @@ I only list LIGO/Virgo/KAGRA collabotation papers to which I have made substanti
 In addition, through general contributions to the [LIGO Scientific Collaboration](https://www.ligo.org/index.php), I am an author on 103 further [LIGO/Virgo/KAGRA publications](https://pnp.ligo.org/ppcomm/Papers.html), which are not included below.
 
 My current h-index, as estimated through [InspireHEP](https://inspirehep.net/authors/1277727), is 72.
-My [ORCiD](https://orcid.org/) number is [0000-0001-8040-9807](https://orcid.org/0000-0001-8040-9807)
+My [ORCiD](https://orcid.org/) number is [0000-0001-8040-9807](https://orcid.org/0000-0001-8040-9807).
 
 
 <!-- _pages/publications.md -->

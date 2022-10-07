@@ -3,11 +3,11 @@
  - firstname: ["Sylvia", "S"]
    url: https://web.mit.edu/sbisco/www/index.html
 
-"Cahillane"
+"Cahillane":
  - firstname: ["Craig", "C"]
    url: https://ccahilla.github.io/
 
-"Chatziioannou"
+"Chatziioannou":
  - firstname: ["Katerina", "K"]
    url: https://inspirehep.net/authors/1274977
 
@@ -49,7 +49,7 @@
  - firstname: ["Ken", "Ken K.Y.","Ken K. Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
    url: https://inspirehep.net/authors/1826991
 
-"Ramirez-Ruiz"
+"Ramirez-Ruiz":
  - firstname: ["Enrico", "E"]
    url: https://www.ucolick.org/~enrico/home.html
 
@@ -61,11 +61,11 @@
  - firstname: ["Ling", "Lilli", "L"]
    url: https://www.lingsun.org/
 
-"Toonen"
+"Toonen":
  - firstname: ["Silvia", "S"]
    url: https://staff.fnwi.uva.nl/s.g.m.toonen/
 
-"Vigna-G\'omez"
+"Vigna-G\'omez":
  - firstname: ["Alejandro", "A"]
    url: https://www.alejandrovignagomez.com/
 
