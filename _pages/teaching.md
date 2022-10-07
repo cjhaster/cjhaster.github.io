@@ -18,20 +18,8 @@ horizontal: false
   {%- assign categorized_teaching = site.teaching | where: "category", category -%}
   {%- assign sorted_teaching = categorized_teaching | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_teaching -%}
-      {% include teaching_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_teaching -%}
+  {%- for project in sorted_teaching -%}
       {% include teaching.html %}
-    {%- endfor %}
+  {%- endfor %}
   </div>
-  {%- endif -%}
-  {% endfor %}
 {%- endif -%}
