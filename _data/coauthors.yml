@@ -1,44 +1,50 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
-
 
 "Biscoveanu":
  - firstname: ["Sylvia", "S"]
    url: https://web.mit.edu/sbisco/www/index.html
 
+"Chen":
+ - firstname: ["Hsin-Yu", "H", "H-Y"]
+  url: https://sites.google.com/view/hsin-yuchen/home
+
+"Farr":
+  - firstname: ["Will", "Will M.", "W", 'W. M.']
+    url: https://farr.github.io/
+  
+  - firstname: ["Ben", "B"]
+     url: https://gw.observer/
+
+"Field":
+ - firstname: ["Scott", "S", "Scott E.", "S. E."]
+   url: http://www.math.umassd.edu/~sfield/
+  
+"Isi":
+  - firstname: ["Max", "M", "Maximiliano"]
+    url: https://labcit.ligo.caltech.edu/~misi/
+  
+"Islam":
+- firstname: ["Tousif", "T"]
+  url: https://tousifislam.com/
+
+"Ng":
+  - firstname: ["Ken", "Ken K.Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
+    url: https://inspirehep.net/authors/1826991
+
+"Shaik":
+ - firstname: ["Feroz H.", "Feroz", "F", "F.H."]
+   url: https://feroz6.gitlab.io/
+
 "Vitale":
  - firstname: ["Salvatore", "Salvo", "S"]
    url: https://sites.google.com/view/salvatorevitale/home
+   
+"Varma":
+ - firstname: ["Vijay", "V"]
+    url: https://vijayvarma.com/
+
+
+
+
+
+
+

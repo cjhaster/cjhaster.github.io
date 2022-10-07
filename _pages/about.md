@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Astrophysics in the [Department of Physics & Astronomy](https://www.physics.unlv.edu/) and the [Nevada Center for Astrophysics]() at [University of Nevada, Las Vegas](https://www.unlv.edu/).
+I am an Assistant Professor of Astrophysics in the [Department of Physics & Astronomy](https://www.physics.unlv.edu/) and the [Nevada Center for Astrophysics](https://ncfa.physics.unlv.edu/) at [University of Nevada, Las Vegas](https://www.unlv.edu/).
 Before this, I was a Postdoctoral Associate at the [LIGO Laboratory](https://ligolab.mit.edu/) and the [Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) at [MIT](https://mit.edu/), a CITA Postdoctoral Fellow at [Canadian Institute for Theoretical Astrophysics](https://www.cita.utoronto.ca/) a PhD student at [University of Birmingham](https://www.sr.bham.ac.uk/gwgroup/index.php) and a MPhys student at [University of Manchester](https://www.jodrellbank.manchester.ac.uk/).
 
 My main research interests are all the exciting things we can learn about the extremes of our Universe through observations of Gravitational Waves (for example using the current [LIGO](https://www.ligo.org/), or future [Cosmic Explorer](https://cosmicexplorer.org/), instruments).
