@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I am teaching now (and have taught in the past)
 nav: true
 nav_order: 5
 display_categories: [current, past]
@@ -34,3 +34,4 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
+{%- endif -%}
