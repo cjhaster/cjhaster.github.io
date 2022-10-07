@@ -32,3 +32,13 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
+
+"Biscoveanu":
+ - firstname: ["Sylvia", "S"]
+   url: https://web.mit.edu/sbisco/www/index.html
+
+"Vitale":
+ - firstname: ["Salvatore", "Salvo", "S"]
+   url: https://sites.google.com/view/salvatorevitale/home

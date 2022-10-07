@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 In this list I only include articles published in, or intended for publication in, peer-reviewed journals, and have therefore excluded e.g. conference proceedings.
-Entries with the <font color=#b31a1b>arXiv</font> label have all been submitted to peer-reviewed journals, but are currently in a pre-print stage.
+Entries with the *arXiv* label have been submitted to peer-reviewed journals, but are currently in a pre-print stage.
 
 I only list LIGO/Virgo/KAGRA collabotation papers to which I have made substantial direct contributions.
 In addition, through general contributions to the [LIGO Scientific Collaboration](https://www.ligo.org/index.php), I am an author on 103 further [LIGO/Virgo/KAGRA publications](https://pnp.ligo.org/ppcomm/Papers.html), which are not included below.
