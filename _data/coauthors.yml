@@ -8,27 +8,27 @@
   url: https://sites.google.com/view/hsin-yuchen/home
 
 "Farr":
-  - firstname: ["Will", "Will M.", "W", 'W. M.']
-    url: https://farr.github.io/
+ - firstname: ["Will", "Will M.", "W", 'W. M.']
+   url: https://farr.github.io/
   
-  - firstname: ["Ben", "B"]
-     url: https://gw.observer/
+ - firstname: ["Ben", "B"]
+   url: https://gw.observer/
 
 "Field":
  - firstname: ["Scott", "S", "Scott E.", "S. E."]
    url: http://www.math.umassd.edu/~sfield/
   
 "Isi":
-  - firstname: ["Max", "M", "Maximiliano"]
-    url: https://labcit.ligo.caltech.edu/~misi/
+ - firstname: ["Max", "M", "Maximiliano"]
+   url: https://labcit.ligo.caltech.edu/~misi/
   
 "Islam":
-- firstname: ["Tousif", "T"]
-  url: https://tousifislam.com/
+ - firstname: ["Tousif", "T"]
+ url: https://tousifislam.com/
 
 "Ng":
-  - firstname: ["Ken", "Ken K.Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
-    url: https://inspirehep.net/authors/1826991
+ - firstname: ["Ken", "Ken K.Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
+   url: https://inspirehep.net/authors/1826991
 
 "Shaik":
  - firstname: ["Feroz H.", "Feroz", "F", "F.H."]
@@ -40,7 +40,7 @@
    
 "Varma":
  - firstname: ["Vijay", "V"]
-    url: https://vijayvarma.com/
+   url: https://vijayvarma.com/
 
 
 
