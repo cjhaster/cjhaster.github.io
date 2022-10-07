@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: List of my repositories, and where my public code contributions can be found.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users
