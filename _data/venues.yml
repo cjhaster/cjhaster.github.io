@@ -1,5 +1,8 @@
 
-"PhysRev":
+"PRD":
   url: https://journals.aps.org/prd/
   color: "#467e91"
   
+"PRL":
+  url: https://journals.aps.org/prl/
+  color: "#507e66"
