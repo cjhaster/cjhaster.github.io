@@ -21,5 +21,6 @@ horizontal: false
   {%- for project in sorted_teaching -%}
       {% include teaching.html %}
   {%- endfor %}
+  {%- endfor %}
   </div>
 {%- endif -%}
