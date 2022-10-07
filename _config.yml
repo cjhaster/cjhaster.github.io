@@ -232,7 +232,7 @@ scholar:
   last_name: [Haster]
   first_name: [Carl-Johan, C-J, C, C.-J.]
 
-  style: hunsrt
+  style: apa
   locale: en
 
   source: /_bibliography/
