@@ -232,7 +232,7 @@ scholar:
   last_name: [Haster]
   first_name: [Carl-Johan, C-J, C, C.-J.]
 
-  style: apa
+  style: natbib-plainnat-author-date
   locale: en
 
   source: /_bibliography/
