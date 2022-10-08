@@ -49,6 +49,10 @@
  - firstname: ["Ken", "Ken K.Y.","Ken K. Y.", "K.K.Y.", "Kwan Yeung", "Ken Kwan Yeung", "K", "K.Y."]
    url: https://inspirehep.net/authors/1826991
 
+"Puerrer":
+ - firstname: ["Michael", "M"]
+   url: https://www.michaelpuerrer.com/
+
 "Ramirez-Ruiz":
  - firstname: ["Enrico", "E"]
    url: https://www.ucolick.org/~enrico/home.html
@@ -77,6 +81,9 @@
  - firstname: ["Vijay", "V"]
    url: https://vijayvarma.com/
 
+"Zimmerman":
+ - firstname: ["Aaron", "Aaron B.", "A", "A.B."]
+   url: https://inspirehep.net/authors/1270291
 
 
 

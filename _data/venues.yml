@@ -30,3 +30,7 @@
 "MNRAS":
   url: https://academic.oup.com/mnras
   color: "#937cba"
+
+"RNAAS":
+  url: https://iopscience.iop.org/journal/2515-5172
+  color: "#6084a0"
