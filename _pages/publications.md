@@ -12,9 +12,9 @@ In this list I only include articles published in, or intended for publication i
 Entries with the *arXiv* label have been submitted to peer-reviewed journals, but are currently in a pre-print stage.
 
 I only list LIGO/Virgo/KAGRA collabotation papers to which I have made substantial direct contributions.
-In addition, through general contributions to the [LIGO Scientific Collaboration](https://www.ligo.org/index.php), I am an author on 103 further [LIGO/Virgo/KAGRA publications](https://pnp.ligo.org/ppcomm/Papers.html), which are not included below.
+In addition, through general contributions to the [LIGO Scientific Collaboration](https://www.ligo.org/index.php), I am an author on 106 further [LIGO/Virgo/KAGRA publications](https://pnp.ligo.org/ppcomm/Papers.html), which are not included below.
 
-My current h-index, as estimated through [InspireHEP](https://inspirehep.net/authors/1277727), is 72.
+My current h-index, as estimated through [InspireHEP](https://inspirehep.net/authors/1277727), is 85.
 My [ORCiD](https://orcid.org/) number is [0000-0001-8040-9807](https://orcid.org/0000-0001-8040-9807).
 
 
