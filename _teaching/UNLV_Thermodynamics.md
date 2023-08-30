@@ -3,7 +3,7 @@ layout: page
 title: PHYS467/667
 description: Thermodynamics and Statistical Physics
 importance: 1
-category: current
+category: past
 img: assets/img/thermodynamics.jpg
 ---
 

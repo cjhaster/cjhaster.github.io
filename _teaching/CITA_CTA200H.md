@@ -2,7 +2,7 @@
 layout: page
 title: CTA200H
 description: Introduction to computational astrophysics - undergraduate course at the University of Toronto
-importance: 1
+importance: 2
 category: past
 img: assets/img/CITA_logo_dated_2013_with_maple_leaf,_galaxy_and_dot_in_middle_representing_nuclear_black_hole.jpeg
 github: https://github.com/ttricco/cta200h
